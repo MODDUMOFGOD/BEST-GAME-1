@@ -1,2 +1,2 @@
-projext CIA SECRET GAME
+projext GAME
 
